@@ -1,3 +1,7 @@
+## Note about fork
+
+Removed npm deps so this can be used on the frontend without having to deal with cairo etc. install on macosx or CI builds.
+
 ## About
 
 Adobe® Photoshop® has a variety of helpful [blend modes](http://helpx.adobe.com/photoshop/using/blending-modes.html) for compositing images from multiple RGBA layers. This small library provides the same functionality for HTML Canvas Contexts, with the goal of producing the same results as Photoshop.
